@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fitnessWeb/static/css/main.a504d197.css",
+    "main.js": "/fitnessWeb/static/js/main.62cab845.js",
+    "static/media/img-1.jpg": "/fitnessWeb/static/media/img-1.d7a4b336c535482ac8c8.jpg",
+    "static/media/img-8.jpg": "/fitnessWeb/static/media/img-8.1c6c0616d7965eb2e3b4.jpg",
+    "static/media/img-10.jpg": "/fitnessWeb/static/media/img-10.943c1d871d641d2fb252.jpg",
+    "static/media/img-17.jpg": "/fitnessWeb/static/media/img-17.9f3655cae3f7c6d257e2.jpg",
+    "static/media/img-11.jpg": "/fitnessWeb/static/media/img-11.52fd487f9e0fcf21bf9b.jpg",
+    "static/media/img-9.jpg": "/fitnessWeb/static/media/img-9.0b6a35abe084f72e0004.jpg",
+    "static/media/img-16.jpg": "/fitnessWeb/static/media/img-16.14ceda1be4a6c1c59363.jpg",
+    "static/media/img-5.jpg": "/fitnessWeb/static/media/img-5.2da940b778cc8205a828.jpg",
+    "static/media/img-19.jpg": "/fitnessWeb/static/media/img-19.1e0301cbf7ef1abbbeb2.jpg",
+    "static/media/img-7.jpg": "/fitnessWeb/static/media/img-7.6fe753e7b81bb9ed2e5b.jpg",
+    "static/media/img-12.jpg": "/fitnessWeb/static/media/img-12.dd440131c9e097546527.jpg",
+    "static/media/img-6.jpg": "/fitnessWeb/static/media/img-6.87d72682a913964b98ca.jpg",
+    "static/media/img-15.jpg": "/fitnessWeb/static/media/img-15.d7b29f2ac0561c8b61f1.jpg",
+    "static/media/img-20.jpg": "/fitnessWeb/static/media/img-20.255b439449ed307d5557.jpg",
+    "static/media/img-21.jpg": "/fitnessWeb/static/media/img-21.3a99b117262d0acd5c30.jpg",
+    "static/media/img-14.jpg": "/fitnessWeb/static/media/img-14.70c6d25ee1c1f1f9423a.jpg",
+    "index.html": "/fitnessWeb/index.html",
+    "main.a504d197.css.map": "/fitnessWeb/static/css/main.a504d197.css.map",
+    "main.62cab845.js.map": "/fitnessWeb/static/js/main.62cab845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a504d197.css",
+    "static/js/main.62cab845.js"
+  ]
+}
